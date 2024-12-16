@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3f173fa9d04a238c",
+        "id": "d51c9324a5922bdc",
         "type": "tabs",
         "children": [
           {
-            "id": "5acee42abe88d26f",
+            "id": "34d45f798a2ba367",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Unity/Shader/12.屏幕后处理/1.屏幕后处理效果.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (1.屏幕后处理效果)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -155,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +166,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23c72f21b65615c3",
+  "active": "34d45f798a2ba367",
   "lastOpenFiles": [
+    "C++/设计模式/02_创建型模式/1.单例模式.md",
+    "C++/设计模式/01_预览/2.设计模式三原则.md",
+    "C++/设计模式/01_预览/1.UML类图(C++).md",
     "OpenGL/1-基础/1.基础要点.md",
     "OpenGL/1-基础/2.GLSL基础.md",
     "OpenGL/1-基础/3.纹理.md",
