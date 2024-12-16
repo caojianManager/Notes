@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "fd12018bd9e7f035",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f173fa9d04a238c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5acee42abe88d26f",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Unity/Shader/12.屏幕后处理/1.屏幕后处理效果.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (1.屏幕后处理效果)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c8c1db7de401789",
+    "type": "split",
+    "children": [
+      {
+        "id": "e27a494d49379554",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a864e718412797a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c55eeb5228dda1a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e2e75548e82dc4b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b4183e7ca1c0bce9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e113e69e2c0c1d3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05af354cf9dd1c38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "fc64c74ab6e01aeb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "f8f287a31d88781a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0a643abe069780f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "23c72f21b65615c3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "23c72f21b65615c3",
+  "lastOpenFiles": [
+    "OpenGL/1-基础/1.基础要点.md",
+    "OpenGL/1-基础/2.GLSL基础.md",
+    "OpenGL/1-基础/3.纹理.md",
+    "2024-12-16.md",
+    "OpenGL/2-光照/1.基础光照.md",
+    "OpenGL/2-光照/2.材质.md"
+  ]
+}
