@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nolo适配.md",
+                "file": "U3D/性能优化/移动游戏性能优化技法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nolo适配"
+              "title": "移动游戏性能优化技法"
             }
           }
         ],
@@ -189,14 +189,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a864e718412797a8",
+  "active": "2e46d35bc963bf30",
   "lastOpenFiles": [
+    "U3D/性能优化/U3D性能优化分析思路.md",
+    "U3D/性能优化/移动游戏性能优化技法.md",
+    "Nolo适配.md",
+    "README.md",
     "U3D/Shader/7.基础贴图/法线贴图.md",
     "U3D/性能优化",
-    "Nolo适配.md",
     "Graphics/图形学基础/2.向量和矩阵.md",
     "Graphics/图形学基础/1.图形学基础.md",
-    "README.md",
     "Graphics/图形学基础/5.深度测试.md",
     "Graphics/图形学基础/3.MVP变换.md",
     "VSCode相关/VSCode_Unity.md",
