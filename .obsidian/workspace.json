@@ -176,6 +176,8 @@
   },
   "active": "a363150539fccb05",
   "lastOpenFiles": [
+    "U3D/0_imges/img_0.png",
+    "U3D/0_imges",
     "面试/U3D 总纲.md",
     "U3D/基础/Unity中的进程，线程和协程.md",
     "U3D/基础",
@@ -215,7 +217,6 @@
     "U3D/性能优化",
     "VSCode相关/VSCode_Unity.md",
     "VSCode相关/VSCode_OpenGL.md",
-    "2024-12-16.md",
-    "C++/设计模式/02_创建型模式/1.单例模式.md"
+    "2024-12-16.md"
   ]
 }
