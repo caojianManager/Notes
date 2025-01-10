@@ -11,4 +11,21 @@
 
 ## 三.Unity生命周期
 
->Awake --> OnEnable --> Start --> FixedUpdate --> U
+>Awake --> OnEnable --> Start --> FixedUpdate --> Update --> LateUpdate --> OnGUI --> OnDisable --> OnDestory
+
+**主要函数介绍:**
+
++ Reset:
++ Awake:
++ OnEnable:
++ Start:
++ FixedUpdate:
++ Update:
++ LateUpdate:
++ OnGUI:
++ OnDisable:
++ OnDestory:
++ OnApplicationQuit:
+
+![[im_15.png]]
+![[im_16.png]]

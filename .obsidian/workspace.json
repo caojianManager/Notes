@@ -202,8 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3ddee633147d13a",
+  "active": "a864e718412797a8",
   "lastOpenFiles": [
+    "面试/images/im_16.png",
+    "面试/images/im_15.png",
     "README.md",
     "面试/U3D 总纲.md",
     "U3D/基础/Unity中的进程，线程和协程.md",
@@ -234,7 +236,6 @@
     "Git相关/Git相关问题.md",
     "面试/Git相关.md",
     "面试/images/im_14.png",
-    "面试/images/im_13.png",
     "面试/images",
     "U3D/性能优化/移动游戏性能优化技法.md",
     "面试",
