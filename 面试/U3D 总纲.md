@@ -9,3 +9,6 @@
 
 >可使用TransformPoint方法将本地坐标系转为世界坐标系
 
+## 三.Unity生命周期
+
+>Awake --> OnEnable --> Start --> FixedUpdate --> U
