@@ -37,4 +37,66 @@ Unity只使用了一个线程，但我们需要“同时做很多事情”，那
 
 ![[img_0.png]]
 
-unity中协程执行过程中，通过yield return XXX，将程序挂起，去执行接下来的内容
+unity中协程执行过程中，通过yield return XXX，将程序挂起，去执行接下来的内容，注意协程不是线程，在为遇到yield return XXX语句之前，协程的方法和一般的方法是相同的，也就是程序在执行到yield return XXX语句之后，接着才会执行的是StartCoroutine()方法之后的程序，走的还是单线程模式，仅仅是将yield return XXX语句之后的内容暂时挂起，等到特定的时间才执行。
+
+那么挂起的程序什么时候才执行，这就要看monoBehavior的生命周期了。
+
+![[img_1.png]]
+
+也就是协同程序主要是Update()方法之后，LateUpdate()之前调用的，如下示例：
+
+```c#
+using UnityEngine;
+using System.Collections;
+using System.Threading;
+public class test : MonoBehaviour
+{
+ 
+    void Start()
+    {
+        StartCoroutine(tt());//开启协程
+        for (int i = 0; i < 200; i++)   //循环A
+        {
+            Debug.Log("*************************" + i);
+            Thread.Sleep(10);
+        }
+    }
+ 
+    IEnumerator tt()
+    {
+        for (int i = 0; i < 100; i++) //循环B
+        {
+            Debug.Log("-------------------" + i);
+        }
+        yield return new WaitForSeconds(1); //协程1
+        for (int i = 0; i < 100; i++) //循环C
+        {
+            Debug.Log(">>>>>>>>>>>>>>>>>>>>" + i);
+            yield return null; //协程1
+        }
+    }
+    // 更新数据
+    void Update()
+    {
+        Debug.Log("Update");
+    }
+    //晚于更新
+    void LateUpdate()
+    {
+        Debug.Log("------LateUpdate");
+    }
+}
+```
+
+程序运行结果
+![[img_2.png]]
+
+先执行循环B，然后执行循环A，然后执行Update()和LateUpdate()的方法，等待1s之后，在Update()和LateUpdate()之间执行循环C的输出。
+
+### 线程和进程的区别
+
++ 地址空间：线程是进程内的一个zhi'xing
++ 资源拥有：
++ 线程是处理器调度的基本单位，但进程不是
++ 二者均可并发执行
++ 每个独立的线程有一个程序运行的入口，顺序执行序列和程序的出口，但是线程不能够独立执行，必须依存在应用程序中，由应用程序提供多个线程执行控制。
