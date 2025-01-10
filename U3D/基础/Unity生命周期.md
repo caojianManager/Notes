@@ -14,5 +14,5 @@
 + **OnDestory:** 当对象被销毁时调用。
 + **OnApplicationQuit:** 当用户停止运行模式时在编辑器中调用。当web被关闭时在网络播放器中被调用。
 
-![[im_15.png]]
-![[im_16.png]]
+![[img_3.png]]
+![[img_4.png]]
