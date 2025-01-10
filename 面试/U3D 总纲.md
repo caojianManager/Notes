@@ -19,7 +19,7 @@
 + **Awake:** 常用于游戏开始和数据初始化。在整个生命周期中仅被调用一次，当脚本设置不可用(Enable == False)的使用，Awake仍然会被调用一次。扩：Awake在所有对象被初始化之后调用，所以你可以安全的与其他对象对话或用诸如GameObject.FindWithTag这样的函数搜索他们。每个游戏物体上的Awake以随机的顺序被调用。因此，你应该用Awake来设置脚本间的引用，并用Start来传递信息 ,Awake总是在Start之前被调用。它不能用来执行协同程序。
 + **OnEnable:** 当对象变为可用或激活状态时被调用事件监听
 + **Start:** 在behaviour的生命周期中只被调用一次。它和Awake的不同是Start只在脚本实例被启用时调用。你可以按需调整延迟初始化代码。Awake总是在Start之前执行。这允许你协调初始化顺序
-+ **FixedUpdate:**
++ **FixedUpdate:** 当MonoBehaviour启用时，其在每一帧被调用。处理Rigidbody时，需要用FixedUpdate代替Update。例如:给刚体加一个作用力时，你必须应用作用力在FixedUpdate里的固定帧，而不是Update中的帧。(两者帧长不同)。
 + **Update:**
 + **LateUpdate:**
 + **OnGUI:**
