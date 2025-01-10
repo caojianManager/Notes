@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "面试/U3D 总纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "U3D 总纲"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "面试/U3D 总纲.md"
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "U3D 总纲 的大纲"
             }
           },
           {
@@ -204,6 +204,7 @@
   },
   "active": "f3ddee633147d13a",
   "lastOpenFiles": [
+    "README.md",
     "面试/U3D 总纲.md",
     "U3D/基础/Unity中的进程，线程和协程.md",
     "U3D/0_imges/img_2.png",
@@ -239,7 +240,6 @@
     "面试",
     "U3D/性能优化/U3D性能优化分析思路.md",
     "Nolo适配.md",
-    "README.md",
     "U3D/Shader/7.基础贴图/法线贴图.md",
     "U3D/性能优化",
     "VSCode相关/VSCode_Unity.md",
