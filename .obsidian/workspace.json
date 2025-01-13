@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/U3D 总纲.md",
+                "file": "U3D/基础/批处理(合批).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "U3D 总纲"
+              "title": "批处理(合批)"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/U3D 总纲.md",
+                "file": "U3D/基础/批处理(合批).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "U3D 总纲"
+              "title": "批处理(合批)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b4183e7ca1c0bce9",
@@ -169,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/U3D 总纲.md"
+                "file": "U3D/基础/批处理(合批).md"
               },
               "icon": "lucide-list",
-              "title": "U3D 总纲 的大纲"
+              "title": "批处理(合批) 的大纲"
             }
           },
           {
@@ -203,10 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3ddee633147d13a",
+  "active": "9fd642987599d493",
   "lastOpenFiles": [
-    "U3D/基础/Unity生命周期.md",
     "面试/U3D 总纲.md",
+    "U3D/基础/批处理(合批).md",
+    "U3D/基础/Unity生命周期.md",
     "U3D/0_imges/img_4.png",
     "U3D/0_imges/img_3.png",
     "U3D/0_imges/img_0.png",
