@@ -204,6 +204,7 @@
   },
   "active": "9fd642987599d493",
   "lastOpenFiles": [
+    "im_15.png",
     "U3D/基础/批处理(合批).md",
     "面试/算法.md",
     "面试/U3D 总纲.md",
@@ -244,7 +245,6 @@
     "U3D/性能优化/U3D性能优化分析思路.md",
     "Nolo适配.md",
     "U3D/Shader/7.基础贴图/法线贴图.md",
-    "U3D/性能优化",
-    "VSCode相关/VSCode_Unity.md"
+    "U3D/性能优化"
   ]
 }
