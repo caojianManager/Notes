@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/网络.md",
-                "mode": "preview",
+                "file": "面试/U3D 总纲.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网络"
+              "title": "U3D 总纲"
             }
           }
         ],
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b4183e7ca1c0bce9",
@@ -168,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/网络.md"
+                "file": "面试/U3D 总纲.md"
               },
               "icon": "lucide-list",
-              "title": "网络 的大纲"
+              "title": "U3D 总纲 的大纲"
             }
           },
           {
@@ -204,9 +205,8 @@
   },
   "active": "f3ddee633147d13a",
   "lastOpenFiles": [
-    "面试/语言.md",
-    "面试/U3D 总纲.md",
     "U3D/基础/Unity生命周期.md",
+    "面试/U3D 总纲.md",
     "U3D/0_imges/img_4.png",
     "U3D/0_imges/img_3.png",
     "U3D/0_imges/img_0.png",
@@ -217,6 +217,7 @@
     "U3D/0_imges",
     "U3D/基础",
     "U3D/未命名.md",
+    "面试/语言.md",
     "面试/网络.md",
     "Graphics/图形学基础/2.向量和矩阵.md",
     "Graphics/图形学基础/1.图形学基础.md",

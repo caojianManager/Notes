@@ -19,10 +19,16 @@
 
 批处理希望通过对物体网格的重组来获得更高的绘制效率，试想以下如果将多个物体合并为一个物体，那么在绘制的时候只需要绘制一次就够了，因此从这个角度上来讲，这样做可以降低DrawCall.
 
-Unity3Dzho
+Unity3D中 进行批处理的一个前提是相同材质的物体可以被合并，如果这些物体使用不同的材质，那么当我们把这些材质对应的纹打成“图集”以后可以对其进行合并，并且在合并的时候应该是用Renderer.sharedMaterial而非Renderer.material以保证材质是可以共享的。
 
 ### 2.Unity中批处理的两种方式
 
 #### 静态批处理
+
+tong'g
+
+静态批处理，即就是将场景中认为是相对“静态”的物体勾上Static选项，这在Unity3D中称为Static GameObjects,并因为这一特性和Lightmapping,Navigation,Off-meshLinks,ReflectionProbe, Occluder and Occludee等内容均有着密切的联系。
+
+
 
 #### 动态批处理
