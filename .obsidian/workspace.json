@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/算法.md",
+                "file": "面试/U3D 总纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "算法"
+              "title": "U3D 总纲"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "U3D/基础/批处理(合批).md",
-                "mode": "source",
+                "file": "面试/算法.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "批处理(合批)"
+              "title": "算法"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,12 +202,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fd642987599d493",
+  "active": "f3ddee633147d13a",
   "lastOpenFiles": [
-    "im_15.png",
+    "Graphics/图形学基础/5.深度测试.md",
+    "Graphics/图形学基础/4.抗锯齿.md",
+    "Graphics/图形学基础/3.MVP变换.md",
+    "Graphics/图形学基础/2.向量和矩阵.md",
+    "Graphics/图形学基础/1.图形学基础.md",
     "U3D/基础/批处理(合批).md",
-    "面试/算法.md",
     "面试/U3D 总纲.md",
+    "面试/网络.md",
+    "面试/算法.md",
+    "im_15.png",
+    "面试/语言.md",
     "U3D/基础/Unity生命周期.md",
     "U3D/0_imges/img_4.png",
     "U3D/0_imges/img_3.png",
@@ -219,13 +226,6 @@
     "U3D/0_imges",
     "U3D/基础",
     "U3D/未命名.md",
-    "面试/语言.md",
-    "面试/网络.md",
-    "Graphics/图形学基础/2.向量和矩阵.md",
-    "Graphics/图形学基础/1.图形学基础.md",
-    "Graphics/图形学基础/3.MVP变换.md",
-    "Graphics/图形学基础/4.抗锯齿.md",
-    "Graphics/图形学基础/5.深度测试.md",
     "Graphics/图形学基础/6.传统的光照模型.md",
     "Graphics/图形学基础/7.纹理映射.md",
     "Graphics/图形学基础/8.ShadowMapping.md",
@@ -236,7 +236,6 @@
     "im_4.png",
     "面试/images/im_5.png",
     "面试/images/im_4.png",
-    "im_5.png",
     "Git相关/Git相关问题.md",
     "面试/Git相关.md",
     "面试/images",
@@ -245,6 +244,7 @@
     "U3D/性能优化/U3D性能优化分析思路.md",
     "Nolo适配.md",
     "U3D/Shader/7.基础贴图/法线贴图.md",
-    "U3D/性能优化"
+    "U3D/性能优化",
+    "VSCode相关/VSCode_Unity.md"
   ]
 }
