@@ -202,8 +202,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3ddee633147d13a",
+  "active": "a864e718412797a8",
   "lastOpenFiles": [
+    "U3D/算法/未命名",
     "Graphics/图形学基础/4.抗锯齿.md",
     "Graphics/图形学基础/3.MVP变换.md",
     "Graphics/图形学基础/2.向量和矩阵.md",
@@ -245,7 +246,6 @@
     "面试",
     "U3D/性能优化/U3D性能优化分析思路.md",
     "Nolo适配.md",
-    "U3D/Shader/7.基础贴图/法线贴图.md",
     "U3D/性能优化"
   ]
 }
