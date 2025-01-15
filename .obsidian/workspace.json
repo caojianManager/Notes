@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "U3D/算法/如何判断点是否在三角形内.md",
+                "file": "U3D/基础/Unity生命周期.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何判断点是否在三角形内"
+              "title": "Unity生命周期"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "U3D/算法/如何判断点是否在三角形内.md"
+                "file": "U3D/基础/Unity生命周期.md"
               },
               "icon": "lucide-list",
-              "title": "如何判断点是否在三角形内 的大纲"
+              "title": "Unity生命周期 的大纲"
             }
           },
           {
@@ -204,19 +204,19 @@
   },
   "active": "f3ddee633147d13a",
   "lastOpenFiles": [
-    "Graphics/图形学基础/2.向量和矩阵.md",
-    "U3D/算法/如何判断点是否在三角形内.md",
-    "Graphics/图形学基础/1.图形学基础.md",
+    "面试/U3D 总纲.md",
+    "面试/网络.md",
+    "面试/语言.md",
     "面试/算法.md",
+    "U3D/算法/如何判断点是否在三角形内.md",
+    "Graphics/图形学基础/2.向量和矩阵.md",
+    "Graphics/图形学基础/1.图形学基础.md",
     "U3D/算法",
     "Graphics/图形学基础/5.深度测试.md",
     "Graphics/图形学基础/4.抗锯齿.md",
     "Graphics/图形学基础/3.MVP变换.md",
     "U3D/基础/批处理(合批).md",
-    "面试/U3D 总纲.md",
-    "面试/网络.md",
     "im_15.png",
-    "面试/语言.md",
     "U3D/基础/Unity生命周期.md",
     "U3D/0_imges/img_4.png",
     "U3D/0_imges/img_3.png",
