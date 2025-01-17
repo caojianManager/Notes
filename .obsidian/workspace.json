@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "U3D/算法/排序算法.md",
+                "file": "U3D/基础/批处理(合批).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "排序算法"
+              "title": "批处理(合批)"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "U3D/算法/排序算法.md"
+                "file": "U3D/基础/批处理(合批).md"
               },
               "icon": "lucide-list",
-              "title": "排序算法 的大纲"
+              "title": "批处理(合批) 的大纲"
             }
           },
           {
@@ -189,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,9 +205,12 @@
   },
   "active": "f3ddee633147d13a",
   "lastOpenFiles": [
+    "U3D/基础/Unity生命周期.md",
+    "U3D/基础/Unity中的进程，线程和协程.md",
+    "U3D/基础/批处理(合批).md",
+    "U3D/算法/排序算法.md",
     "U3D/0_imges/img_6.png",
     "U3D/算法/约瑟夫环.md",
-    "U3D/算法/排序算法.md",
     "img_5.png",
     "U3D/0_imges/img_5.png",
     "面试/算法.md",
@@ -222,18 +226,15 @@
     "Graphics/图形学基础/7.纹理映射.md",
     "Graphics/图形学基础/8.ShadowMapping.md",
     "Graphics/图形学基础/1.图形学基础.md",
-    "U3D/基础/Unity生命周期.md",
     "面试/网络.md",
     "面试/语言.md",
     "U3D/算法/如何判断点是否在三角形内.md",
     "U3D/算法",
-    "U3D/基础/批处理(合批).md",
     "im_15.png",
     "U3D/0_imges/img_4.png",
     "U3D/0_imges/img_3.png",
     "U3D/0_imges/img_0.png",
     "README.md",
-    "U3D/基础/Unity中的进程，线程和协程.md",
     "U3D/0_imges/img_2.png",
     "U3D/0_imges/img_1.png",
     "U3D/0_imges",
@@ -243,7 +244,6 @@
     "C++/C++语言/C++_Review.md",
     "C#/PDF/dotnet-csharp.pdf",
     "面试/images/im_6.png",
-    "im_4.png",
     "Git相关/Git相关问题.md",
     "面试/images",
     "面试",
