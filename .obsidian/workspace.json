@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/U3D 总纲.md",
-                "mode": "preview",
+                "file": "Graphics/OpenGL/1-基础/1.基础要点.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "U3D 总纲"
+              "title": "1.基础要点"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "U3D/图形学相关/渲染流水线.md",
+                "file": "U3D/图形学相关/Unity Shader 渲染流水线.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "渲染流水线"
+              "title": "Unity Shader 渲染流水线"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "U3D/图形学相关/渲染流水线.md"
+                "file": "U3D/图形学相关/Unity Shader 渲染流水线.md"
               },
               "icon": "lucide-list",
-              "title": "渲染流水线 的大纲"
+              "title": "Unity Shader 渲染流水线 的大纲"
             }
           },
           {
@@ -203,12 +203,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a864e718412797a8",
+  "active": "f3ddee633147d13a",
   "lastOpenFiles": [
+    "面试/图形学.md",
+    "Graphics/OpenGL/1-基础/1.基础要点.md",
+    "面试/U3D 总纲.md",
+    "U3D/图形学相关/Unity Shader 渲染流水线.md",
     "U3D/图形学相关/-images/img_0.png",
     "U3D/图形学相关/-images",
-    "面试/图形学.md",
-    "U3D/图形学相关/渲染流水线.md",
     "U3D/图形学相关",
     "U3D/基础/Unity中的进程，线程和协程.md",
     "U3D/基础/Unity生命周期.md",
@@ -233,11 +235,9 @@
     "U3D/图形学相关/Shader/9.复杂的光照/1.Unity的渲染路径.md",
     "U3D/图形学相关/HLSL/基础.md",
     "U3D/算法/排序算法.md",
-    "U3D/0_imges/img_6.png",
     "U3D/算法/约瑟夫环.md",
     "面试/算法.md",
     "未命名.md",
-    "面试/U3D 总纲.md",
     "U3D/算法/LeetCode/344.字符串反转.md",
     "Graphics/图形学基础/5.深度测试.md",
     "U3D/算法/LeetCode",
