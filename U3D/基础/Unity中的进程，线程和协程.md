@@ -35,7 +35,7 @@ Unity只使用了一个线程，但我们需要“同时做很多事情”，那
 
 ### 执行原理
 
-![[img_0.png]]
+![[U3D/0_imges/img_0.png]]
 
 unity中协程执行过程中，通过yield return XXX，将程序挂起，去执行接下来的内容，注意协程不是线程，在为遇到yield return XXX语句之前，协程的方法和一般的方法是相同的，也就是程序在执行到yield return XXX语句之后，接着才会执行的是StartCoroutine()方法之后的程序，走的还是单线程模式，仅仅是将yield return XXX语句之后的内容暂时挂起，等到特定的时间才执行。
 
