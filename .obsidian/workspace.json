@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "U3D/图形学相关/Unity Draw Call 详解.md",
+                "file": "面试/图形学.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unity Draw Call 详解"
+              "title": "图形学"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "U3D/图形学相关/Unity Draw Call 详解.md"
+                "file": "面试/图形学.md"
               },
               "icon": "lucide-list",
-              "title": "Unity Draw Call 详解 的大纲"
+              "title": "图形学 的大纲"
             }
           },
           {
@@ -191,11 +191,14 @@
   },
   "active": "f3ddee633147d13a",
   "lastOpenFiles": [
+    "Graphics/图形学基础/3.MVP变换.md",
     "面试/图形学.md",
+    "面试/U3D 总纲.md",
     "U3D/图形学相关/Unity Draw Call 详解.md",
+    "img_2.png",
+    "U3D/图形学相关/-images/img_1.png",
     "U3D/图形学相关/Unity Shader 渲染流水线.md",
     "Graphics/OpenGL/1-基础/1.基础要点.md",
-    "面试/U3D 总纲.md",
     "U3D/图形学相关/-images/img_0.png",
     "U3D/图形学相关/-images",
     "U3D/图形学相关",
@@ -209,8 +212,6 @@
     "U3D/图形学相关/Shader/images/复杂的光照/6_复杂的光照.png",
     "U3D/图形学相关/Shader/images/复杂的光照/5_复杂的光照.png",
     "U3D/图形学相关/Shader/images/复杂的光照/3_复杂的光照.png",
-    "U3D/图形学相关/Shader/images/复杂的光照/1_复杂的光照.png",
-    "U3D/图形学相关/Shader/images/动画/1.动画.png",
     "U3D/图形学相关/Shader/12.屏幕后处理/1.屏幕后处理效果.md",
     "U3D/图形学相关/Shader/10.高级纹理/3.程序纹理.md",
     "U3D/图形学相关/Shader/10.高级纹理/2.渲染纹理.md",
@@ -229,7 +230,6 @@
     "Graphics/图形学基础/5.深度测试.md",
     "U3D/算法/LeetCode",
     "Graphics/图形学基础/4.抗锯齿.md",
-    "Graphics/图形学基础/3.MVP变换.md",
     "U3D/算法",
     "U3D/0_imges",
     "U3D/基础",
