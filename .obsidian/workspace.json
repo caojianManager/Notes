@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphics/OpenGL/6.PBR/3.IBL.md",
+                "file": "Graphics/图形学基础/6.传统的光照模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.IBL"
+              "title": "6.传统的光照模型"
             }
           }
         ],
@@ -191,6 +191,7 @@
   },
   "active": "f3ddee633147d13a",
   "lastOpenFiles": [
+    "Graphics/OpenGL/6.PBR/3.IBL.md",
     "Graphics/OpenGL/6.PBR/2.光照.md",
     "Graphics/OpenGL/6.PBR/1.理论.md",
     "面试/图形学.md",
@@ -228,7 +229,6 @@
     "U3D/算法/排序算法.md",
     "U3D/算法/约瑟夫环.md",
     "面试/算法.md",
-    "未命名.md",
     "U3D/算法/LeetCode",
     "U3D/算法",
     "U3D/0_imges",
