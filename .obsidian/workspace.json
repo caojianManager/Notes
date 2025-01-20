@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/网络.md",
+                "file": "Graphics/图形学基础/7.纹理映射.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网络"
+              "title": "7.纹理映射"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/网络.md"
+                "file": "Graphics/图形学基础/7.纹理映射.md"
               },
               "icon": "lucide-list",
-              "title": "网络 的大纲"
+              "title": "7.纹理映射 的大纲"
             }
           },
           {
@@ -190,20 +190,28 @@
   },
   "active": "f3ddee633147d13a",
   "lastOpenFiles": [
+    "Graphics/图形学基础/8.ShadowMapping.md",
+    "Graphics/图形学基础/7.纹理映射.md",
+    "Graphics/图形学基础/6.传统的光照模型.md",
+    "Graphics/图形学基础/5.深度测试.md",
+    "Graphics/图形学基础/4.抗锯齿.md",
+    "Graphics/图形学基础/3.MVP变换.md",
+    "Graphics/图形学基础/2.向量和矩阵.md",
+    "Graphics/图形学基础/1.图形学基础.md",
+    "面试/图形学.md",
+    "面试/网络.md",
     "面试/语言.md",
     "面试/U3D 总纲.md",
-    "U3D/基础/Unity中的进程，线程和协程.md",
-    "Graphics/图形学基础/4.抗锯齿.md",
-    "Graphics/图形学基础/6.传统的光照模型.md",
+    "U3D/基础/批处理(合批).md",
+    "面试/算法.md",
     "Graphics/OpenGL/6.PBR/3.IBL.md",
+    "U3D/基础/Unity中的进程，线程和协程.md",
     "Graphics/OpenGL/6.PBR/2.光照.md",
     "Graphics/OpenGL/6.PBR/1.理论.md",
-    "面试/图形学.md",
     "U3D/图形学相关/前向渲染和延迟渲染.md",
     "U3D/图形学相关/-images/img_4.jpg",
     "U3D/图形学相关/-images/img_3.jpg",
     "U3D/图形学相关/-images/img_2.jpg",
-    "Graphics/图形学基础/3.MVP变换.md",
     "U3D/图形学相关/Unity Draw Call 详解.md",
     "img_2.png",
     "U3D/图形学相关/-images/img_1.png",
@@ -213,7 +221,6 @@
     "U3D/图形学相关/-images",
     "U3D/图形学相关",
     "U3D/基础/Unity生命周期.md",
-    "U3D/基础/批处理(合批).md",
     "U3D/图形学相关/Shader/images/透明度/透明度_2.png",
     "U3D/图形学相关/Shader/images/透明度/透明度_1.png",
     "U3D/图形学相关/Shader/images/复杂的光照/9_复杂的光照.png",
@@ -221,13 +228,6 @@
     "U3D/图形学相关/Shader/12.屏幕后处理/1.屏幕后处理效果.md",
     "U3D/图形学相关/Shader/10.高级纹理/3.程序纹理.md",
     "U3D/图形学相关/Shader/10.高级纹理/2.渲染纹理.md",
-    "U3D/图形学相关/Shader/10.高级纹理/1.立方体纹理.md",
-    "U3D/图形学相关/Shader/10.动画/1.动画.md",
-    "U3D/图形学相关/Shader/9.复杂的光照/3.Unity的光照衰减.md",
-    "U3D/图形学相关/Shader/9.复杂的光照/4.Unity的阴影.md",
-    "U3D/图形学相关/Shader/9.复杂的光照/2.Unity的光源类型.md",
-    "U3D/图形学相关/Shader/9.复杂的光照/1.Unity的渲染路径.md",
-    "U3D/图形学相关/HLSL/基础.md",
     "U3D/算法/LeetCode",
     "U3D/算法",
     "U3D/0_imges",
