@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/U3D 总纲.md",
+                "file": "面试/算法和数据结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "U3D 总纲"
+              "title": "算法和数据结构"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/U3D 总纲.md"
+                "file": "面试/算法和数据结构.md"
               },
               "icon": "lucide-list",
-              "title": "U3D 总纲 的大纲"
+              "title": "算法和数据结构 的大纲"
             }
           },
           {
@@ -175,12 +175,13 @@
   },
   "active": "9fd642987599d493",
   "lastOpenFiles": [
-    "Graphics/OpenGL/6.PBR/1.理论.md",
     "面试/图形学.md",
-    "面试/算法.md",
+    "面试/算法和数据结构.md",
     "面试/网络.md",
-    "面试/语言.md",
+    "面试/C#语言.md",
     "面试/U3D 总纲.md",
+    "U3D/基础/Unity生命周期.md",
+    "Graphics/OpenGL/6.PBR/1.理论.md",
     "Graphics/图形学基础/7.纹理映射.md",
     "Graphics/图形学基础/8.ShadowMapping.md",
     "Graphics/图形学基础/6.传统的光照模型.md",
@@ -205,7 +206,6 @@
     "U3D/图形学相关/-images/img_0.png",
     "U3D/图形学相关/-images",
     "U3D/图形学相关",
-    "U3D/基础/Unity生命周期.md",
     "U3D/图形学相关/Shader/images/透明度/透明度_2.png",
     "U3D/图形学相关/Shader/images/透明度/透明度_1.png",
     "U3D/图形学相关/Shader/images/复杂的光照/9_复杂的光照.png",
