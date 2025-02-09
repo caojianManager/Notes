@@ -315,20 +315,22 @@ Func 可以接受 0 个至 16 个传入参数，必须具有返回值
 Action 可以接受 0 个至 16 个传入参数，无返回值
 Predicate 只能接受一个传入参数，返回值为 bool 类型
 
-## 9.结构体和类的区别？
+## 9.结构体(struct)和类(class)的区别？
 
 1.类-->引用类型，结构体-->值类型。
 2.结构体不支持继承。
 3.结构不能声明默认的构造函数。
+4.职能上:class表现行为，而struct常用于存储数据。
 
 常用数据结构时间复杂度
 ![[im_0.png]]
 
-### 如何选择struct还是class
+### 如何选择struct还是class？
 
 + 堆栈空间有限，对大量逻辑对象，创建类比结构体好一些。
 + 结构体表示如点，矩形和颜色这样的轻量对象。
-+ 表现抽象和多级别
++ 表现抽象和多级别的对象层次时，类是最好的选择。
++ 大多数情况下该类型只是一些数据时，结构是最佳的选择。
 ## 10.闭包
 
 **概念：**
@@ -549,15 +551,15 @@ const 用于定义编译时常量，适用于不可更改的常量值，不能�
 
 ## 15.string字符串相关
 
-1.string为什么不能被继承？
+### 1.string为什么不能被继承？
 
 string类无法被继承，因为它的修饰符是sealed（可以阻止其他类继承自该类）。
 
-2.string和stringbuilder的区别
+### 2.string和stringbuilder的区别
 
 String声明之后在内存中大小是不可修改的（重复对单个字符串进行添加，修改的操作会显著的降低性能），而StringBuilder可以自由扩展大小。（两者的区别是内存空间是否可变）
 
-3.string str1=string.Empty和string str2=""的区别
+### v3.string str1=string.Empty和string str2=""的区别
 
 表示长度为0的空字符串。 此字段为只读。 public static readonly string Empty; string.Empty相当于长度为零的字符串 ""即str1=str2
 
@@ -565,14 +567,18 @@ String声明之后在内存中大小是不可修改的（重复对单个字符�
 
 前者分配内存为空字符串的空间，也就是长度为零的字符串；但后者根本就不分配内存空间。
 
-5.string.Empty，""，null三者直接的区别
+### 5.string.Empty，""，null三者直接的区别
 
 从运行结果可以看出string.Empty 和 "" 在栈和堆上都分配了长度为0的字符串空间，而 null 只在栈上分配了空间，在堆上没有分配，也即变量不引用内存中的任何对象。
 
-6.string与System.String有区别吗？
+### 6.string与System.String有区别吗？
 
 在C#中，string关键字是String的别名。 因此，String 和 string 是等效的，虽然建议使用提供的别名 string，因为即使不使用 using System;，它也能正常工作。
 
+### 7. string str = null 与 string str = "",说明区别？
+
++ string str = "" 初始化对象分配空间
++ string str = null 表示一个空引用，没有占用空间
 ## 16.C#字符串的复制
 
 两种方式Copy和CopyTo;
@@ -605,8 +611,17 @@ System.CopyTo(要复制字符的起始位置(从第几个字符开始往后复�
 
 ## 19.堆和栈的区别？
 
-### 20.JIT和AOT区别？
+## 20.JIT和AOT区别？
 
 + Just-In-Time --实时编译：执行慢-安装快-占内存空间小一点。
 + Ahead-Of-Time--预先编译：执行快-安装慢-占内存大一点。
 
+## 21.深拷贝和浅拷贝的区别？
+
+浅拷贝：引用的复制，引用同时指向同一个数据元素
+深拷贝：引用不同，创建了新的对象，当改变数据时，相互不影响。
+
+## 22.面向对象和面向过程的区别？
+
+面向对象：
+面向过程：
