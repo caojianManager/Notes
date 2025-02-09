@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/C#语言.md",
+                "file": "U3D/基础/常见问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C#语言"
+              "title": "常见问题"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/C#语言.md",
+                "file": "U3D/基础/常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "C#语言 的反向链接列表"
+              "title": "常见问题 的反向链接列表"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/C#语言.md"
+                "file": "U3D/基础/常见问题.md"
               },
               "icon": "lucide-list",
-              "title": "C#语言 的大纲"
+              "title": "常见问题 的大纲"
             }
           },
           {
@@ -173,11 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a643abe069780f7",
+  "active": "9fd642987599d493",
   "lastOpenFiles": [
-    "面试/网络.md",
-    "面试/C#语言.md",
     "面试/U3D 总纲.md",
+    "U3D/基础/常见问题.md",
+    "面试/C#语言.md",
+    "面试/网络.md",
     "面试/算法和数据结构.md",
     "面试/图形学.md",
     "U3D/基础/Unity生命周期.md",
@@ -212,7 +213,6 @@
     "U3D/图形学相关/Shader/images/复杂的光照/7_复杂的光照.png",
     "U3D/图形学相关/Shader/12.屏幕后处理/1.屏幕后处理效果.md",
     "U3D/图形学相关/Shader/10.高级纹理/3.程序纹理.md",
-    "U3D/图形学相关/Shader/10.高级纹理/2.渲染纹理.md",
     "U3D/算法/LeetCode",
     "U3D/算法",
     "U3D/0_imges",
