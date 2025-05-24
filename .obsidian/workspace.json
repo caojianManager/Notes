@@ -53,16 +53,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "单招考试.md",
+                "file": "Git相关/Git相关问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "单招考试"
+              "title": "Git相关问题"
+            }
+          },
+          {
+            "id": "66771fbd531334f4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -181,13 +193,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "单招考试.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "单招考试 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -218,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "715c56954e1faa42",
+  "active": "66771fbd531334f4",
   "lastOpenFiles": [
     "单招考试.md",
     "面试/图形学.md",

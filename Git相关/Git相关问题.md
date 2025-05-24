@@ -17,3 +17,9 @@ git add .gitattributes
 
 git push
 ```
+
+# Git Ignore不生效的问题
+
+git rm -r --cached .
+git add .
+git commit -m "刷新 .gitignore 规则"
