@@ -86,9 +86,21 @@
               "icon": "lucide-file",
               "title": "菜单"
             }
+          },
+          {
+            "id": "240aca6c27a1763b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -207,13 +219,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "菜单.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "菜单 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -244,7 +255,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04a6c0459cc8a288",
+  "active": "240aca6c27a1763b",
   "lastOpenFiles": [
     "菜单.md",
     "单招考试.md",
